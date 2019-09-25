@@ -18,6 +18,6 @@
         </interface>
     </hal>
     <sepolicy>
-        <version>26.0</version>
+        <version>28.0</version>
     </sepolicy>
 </manifest>
