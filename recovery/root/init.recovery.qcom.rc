@@ -43,7 +43,7 @@ on init
     symlink /vendor/manifest.xml /system/manifest.xml
 
     start hwservicemanager
-    start prepdecrypt
+    #start prepdecrypt
     setprop crypto.ready 1
 
 service prepdecrypt /init.prepdecrypt.sh
